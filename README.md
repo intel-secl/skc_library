@@ -1,6 +1,6 @@
 # SKC Library
 
-The `SKC Library` enables secure transfer of application keys from KBS after performing SGX attestation.
+The `SKC Library` enables secure transfer of application keys from KBS after performing SGX attestation. 
 
 ## Key features
 
